@@ -1,0 +1,8 @@
+directories:
+    source: "src"
+    output: "out"
+    templates: "templates"
+
+settings:
+    docroot: "https://3RVX.com"
+    basetitle: "3RVX"
