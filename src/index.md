@@ -14,7 +14,11 @@ A new version of 3RVX is currently in development. New features include:
 * Several new OSD meter types and improved tray slider functionality
 * Auto-detection of device changes and selectable control over volume device
 
-Download Beta 8: [3RVX-3.0-B8.zip](3RVX3-B7.zip). Be warned, this version is buggy! You can submit bug reports on [Github](https://github.com/malensek/3RVX).
+Download Beta 8: 
+* [releases/3RVX-3.0-B8.msi](3RVX 3.0 Beta 8)
+* [releases/3RVX-3.0-B8.zip](3RVX 3.0 Beta 8 (Portable))
+
+Be warned, this version is buggy! You can submit bug reports on [Github](https://github.com/malensek/3RVX).
 
 Version 2
 ---------
