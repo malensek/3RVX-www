@@ -1,0 +1,46 @@
+html {
+    -webkit-text-size-adjust: 100%
+}
+
+body {
+    font-size: 80%;
+}
+
+header {
+    margin: 0.25em 0 1em 0;
+    background-color: transparent;
+    border: inherit;
+}
+
+header h1 {
+    margin: 0.25em auto 0.5em auto;
+    float: none;
+}
+
+#nameplate {
+    padding: 0;
+}
+
+nav {
+    text-align: center;
+    background-color: #e5e5e5;
+    border-top: 1px solid #9b9b9b;
+    border-bottom: 1px solid #9b9b9b;
+}
+
+nav #home {
+    display: none;
+}
+
+article {
+    padding: 0 0.75em;
+}
+
+code, pre {
+    font-size: 85%;
+}
+
+pre {
+    margin: 0.75em 0;
+    padding: 0.25em;
+}

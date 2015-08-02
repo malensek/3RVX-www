@@ -1,0 +1,177 @@
+* { margin: 0; padding: 0; }
+
+@font-face {
+    font-family: 'NevisBold';
+    src: url('nevis.eot');
+    src: url('nevis.eot') format('embedded-opentype'),
+         url('nevis.woff') format('woff'),
+         url('nevis.ttf') format('truetype'),
+         url('nevis.svg#NevisBold') format('svg');
+}
+
+body {
+    margin: auto;
+
+    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    font-size: 100%;
+    color: #101;
+
+    background-color: #fff;
+}
+
+#nameplate {
+    margin: auto;
+    padding: 0 1.25em 0 1.25em;
+    max-width: 55em
+}
+
+header {
+    width: 100%;
+    margin: 3em 0 3.25em 0;
+
+    background-color: #e5e5e5;
+    border-top: 1px solid #9b9b9b;
+    border-bottom: 1px solid #9b9b9b;
+}
+
+header h1 {
+    width: 3em;
+    height: 2.75em;
+    float: left;
+    margin-top: -0.75em;
+
+    background-image: url(m.svg), url(m.gif);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+header h1 a {
+    width: 100%;
+    height: 100%;
+
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    display: block;
+}
+
+nav {
+    font-family: 'NevisBold', helvetica, arial, sans-serif;
+    font-size: 0.85em;
+    text-align: right;
+    text-transform: uppercase;
+
+    display: block;
+}
+
+nav a:link,
+nav a:active {
+    color: #323232;
+    text-decoration: none;
+    margin: 0 0.5em 0 0.5em;
+    line-height: 2.25em;
+}
+
+nav a:hover {
+    text-decoration: none;
+}
+
+nav a:visited {
+    color: #323232;
+}
+
+article {
+    max-width: 55em;
+    margin: 0 auto 8em auto;
+    padding: 0 1.25em 0 1.25em;
+}
+
+a:link, a:active {
+    color: #3370ca;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #1852a7;
+}
+
+figure {
+    float: right;
+    margin: 1em;
+    padding: 3px;
+    background: #e5e5e5;
+    border: 1px solid #9b9b9b;
+
+    font-size: 0.75em;
+}
+
+code, pre {
+    font-size: 90%;
+    font-family: "Menlo", "DejaVu Sans Mono", "Consolas", monospace;
+}
+
+pre {
+    overflow: auto;
+    background-color: #111111;
+    color: white;
+    margin: 1.5em;
+    padding: 1em;
+}
+
+h1 {
+    font-size: 175%;
+    margin-bottom: 0.25em;
+}
+
+h1 a:link,
+h1 a:visited,
+h1 a:hover,
+h1 a:active {
+    color: #101;
+    text-decoration: none;
+}
+
+h2 {
+    font-size: 150%;
+    margin: 1em 0 0.25em 0;
+}
+
+h2 a:link,
+h2 a:visited,
+h2 a:hover,
+h2 a:active {
+    color: #101;
+    text-decoration: none;
+}
+
+p {
+    line-height: 1.75;
+}
+
+p + p {
+    text-indent: 1.5em;
+}
+
+p img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em 0 1em 0;
+    max-width: 100%;
+}
+
+li {
+    margin:  0.50em 3em 0.75em 3em;
+    line-height: 1.25em;
+}
+
+.smallheaderimg {
+    float: right;
+    max-width: 20%;
+    height: auto;
+    margin: 0 0 0.75em 0.75em;
+}
