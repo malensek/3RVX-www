@@ -12,8 +12,8 @@ header {
     border: inherit;
 }
 
-header h1 {
-    margin: 0.25em auto 0.5em auto;
+header #logo {
+    margin: 0.25em auto 0.35em auto;
     float: none;
 }
 
@@ -23,9 +23,6 @@ header h1 {
 
 nav {
     text-align: center;
-    background-color: #e5e5e5;
-    border-top: 1px solid #9b9b9b;
-    border-bottom: 1px solid #9b9b9b;
 }
 
 nav #home {
