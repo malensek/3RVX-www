@@ -15,6 +15,7 @@ A new version of 3RVX is currently in development. New features include:
 * Auto-detection of device changes and selectable control over volume device
 
 Download Beta 8: 
+
 * [3RVX 3.0 B8 (Installer)](releases/3RVX-3.0-B8.msi)
 * [3RVX 3.0 B8 (Portable zip)](releases/3RVX-3.0-B8.zip)
 
