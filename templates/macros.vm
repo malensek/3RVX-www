@@ -1,0 +1,46 @@
+#macro(html)
+<!DOCTYPE html>
+<html>
+
+${bodyContent}
+</html>
+#end
+#macro(head)
+<head>
+    <title>${title}</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" href="/assets/style.css">
+    <link rel="stylesheet" type="text/css"
+            media="only screen and (max-width: 625px)"
+            href="/assets/mobile.css">
+
+    <link rel="stylesheet" type="text/css" href="/assets/tomorrow.css">
+    <script src="/assets/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    ${bodyContent}
+</head>
+
+#end
+#macro(body)
+<body>
+
+${bodyContent}
+</body>
+#end
+#macro(menu)
+<header>
+    <div id="nameplate">
+        <h1><a href="/">3RVX</a></h1>
+    </div>
+    <nav>
+        <a href="/" id="home">Home</a>
+        <a href="/skins">Skins</a>
+        <a href="/documentation">Documentation</a>
+        <a href="/community">Community</a>
+    </nav>
+</header>
+
+#end

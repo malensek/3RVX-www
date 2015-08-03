@@ -1,0 +1,11 @@
+#parse("macros.vm")
+#@html()
+#@head()
+#end
+#@body()
+#menu()
+<article>
+${markdown_content}
+</article>
+#end
+#end
