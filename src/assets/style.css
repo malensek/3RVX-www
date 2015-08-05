@@ -119,13 +119,9 @@ article {
 
 article a {
     color: #387ba6;
-    border: 3px solid transparent;
 }
 
 article a:hover {
-    background-color: #cbe3f2;
-    border: 3px solid #cbe3f2;
-    border-radius: 0.5em;
     text-decoration: none;
 }
 
