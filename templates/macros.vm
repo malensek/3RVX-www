@@ -38,7 +38,7 @@ ${bodyContent}
     <nav>
         <a href="/" id="home">Home</a>
         <a href="/skins">Skins</a>
-        <a href="/documentation">Documentation</a>
+        <a href="/docs">Docs</a>
         <a href="/community">Community</a>
     </nav>
 </header>
