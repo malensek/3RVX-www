@@ -34,13 +34,12 @@ ${bodyContent}
 <header>
     <div id="nameplate">
         <h1><a href="/">3RVX</a></h1>
+        <nav>
+            <a href="/" id="home">Home</a>
+            <a href="/skins">Skins</a>
+            <a href="/docs">Docs</a>
+            <a href="/community">Community</a>
+        </nav>
     </div>
-    <nav>
-        <a href="/" id="home">Home</a>
-        <a href="/skins">Skins</a>
-        <a href="/docs">Docs</a>
-        <a href="/community">Community</a>
-    </nav>
 </header>
-
 #end
