@@ -1,9 +1,7 @@
 3RVX
 ====
 
-One thing Windows always lacked was an on-screen display (OSD) for multimedia events like the volume changing or a drive being ejected. While the latest versions of Windows do have a built-in OSD, it is relatively simple. That's where 3RVX comes in: it's a highly customizable service that provides an on-screen display, hotkey controls, tray notifications, and more. Here's a look at some of the 'skins' that completely change the volume OSD's look and feel:
-
-![3RVX Screenshots](3rvx-screenshots.png)
+Welcome! 3RVX is a customizable application that provides an on-screen display (OSD) for Windows systems. It supports skinnable volume and eject OSDs as well as a range of hotkey controls, tray notifications, and other cool features. 3RVX is [open source software](http://github.com/malensek/3RVX) and is under active development, so feel free to participate in filing bugs, adding new features, or contributing skins!
 
 Version 3
 ---------
