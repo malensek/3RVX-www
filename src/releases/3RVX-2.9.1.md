@@ -11,6 +11,11 @@ There are a few new features planned for Beta 10 (new volume options, brightness
 
 As always, thanks for testing the latest releases, and enjoy!
 
+Downloads
+---------
+* [3RVX 2.9.1 (Installer)](3RVX-2.9.1.msi)
+* [3RVX 2.9.1 (Portable zip)](3RVX-2.9.1.zip)
+
 Changelog
 ---------
 
