@@ -6,3 +6,7 @@ directories:
 settings:
     docroot: "https://3RVX.com"
     basetitle: "3RVX"
+
+permissions:
+    file: "rw-r--r--"
+    dir: "rwxr-xr-x"
