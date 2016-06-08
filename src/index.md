@@ -5,12 +5,13 @@ Welcome to the 3RVX homepage! 3RVX provides an on-screen display (OSD) for Windo
 
 News
 ----
-* [3RVX 2.9.1 (Beta 9) released](releases/3RVX-2.9.1.html)
+* 7 June 2016: [3RVX 2.9.2 (Beta 10) released](release-notes/2.9.2.html) (coming soon)
+* 18 September 2015: [3RVX 2.9.1 (Beta 9) released](release-notes/2.9.1.html)
 
 Downloads
-----------------
+---------
 * [3RVX 2.9.1 (B9) (Installer)](releases/3RVX-2.9.1.msi)
 * [3RVX 2.9.1 (B9) (Portable zip)](releases/3RVX-2.9.1.zip)
-* Stable release: [3RVX 2.5](releases/3RVX_2.5.msi)
+* Previous-generation release: [3RVX 2.5](releases/3RVX_2.5.msi)
 
 Run into trouble? Submit bug reports on [Github](https://github.com/malensek/3RVX).
