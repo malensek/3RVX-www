@@ -10,8 +10,8 @@ News
 
 Downloads
 ---------
-* [3RVX 2.9.1 (B9) (Installer)](releases/3RVX-2.9.1.msi)
-* [3RVX 2.9.1 (B9) (Portable zip)](releases/3RVX-2.9.1.zip)
+* [3RVX 2.9.2 (B10) (Installer)](releases/3RVX-2.9.2.msi)
+* [3RVX 2.9.2 (B10) (Portable zip)](releases/3RVX-2.9.2.zip)
 * Previous-generation release: [3RVX 2.5](releases/3RVX_2.5.msi)
 
 Run into trouble? Submit bug reports on [Github](https://github.com/malensek/3RVX).
