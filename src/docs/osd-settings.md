@@ -23,4 +23,5 @@ Volume Limiter
 Force volume limit
 : Forcing a volume limit prevents changes that occur outside 3RVX (other applications, the system volume slider, etc). This is achieved by detecting changes above the limit and resetting the volume level.
 
-
+Mute volume during session lock
+: When enabled, 3RVX will mute the volume when the current session is locked (accessed from the start menu or by pressing Win+L).
