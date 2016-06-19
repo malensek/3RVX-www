@@ -20,4 +20,7 @@ Audio Taper Selector
 Volume Limiter
 : This option prevents 3RVX from raising the volume past a specified limit. Note that when this option is applied, the limit becomes the new "100%" volume level as reported by 3RVX.
 
+Force volume limit
+: Forcing a volume limit prevents changes that occur outside 3RVX (other applications, the system volume slider, etc). This is achieved by detecting changes above the limit and resetting the volume level.
+
 
