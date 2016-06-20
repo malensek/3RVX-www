@@ -185,10 +185,6 @@ p {
     line-height: 1.75;
 }
 
-p + p {
-    text-indent: 2em;
-}
-
 p img {
     display: block;
     margin-left: auto;
