@@ -8,6 +8,12 @@ These settings control OSD (on-screen display) functions. OSDs are visual notifi
 
 Each OSD also supports "notification icons," also commonly known as "tray icons" that appear near the clock in the Windows taskbar.
 
+Jump to an OSD:
+
+* [Volume](#volume)
+* [Eject](#eject)
+* [Brightness](#brightness)
+* [Keyboard](#keyboard)
 
 
 Volume
@@ -36,11 +42,14 @@ Force volume limit
 Mute volume during session lock
 : When enabled, 3RVX will mute the volume when the current session is locked (accessed from the start menu or by pressing Win+L).
 
+
 Eject
 -----
 
+
 Brightness
 ----------
+
 
 Keyboard
 --------
