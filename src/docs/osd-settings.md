@@ -4,9 +4,7 @@ title: 'Settings > OSD'
 
 OSD Settings
 ============
-These settings control OSD (on-screen display) functions. OSDs are visual notifications that appear on the screen for a period of time to convey information, such as the current volume level.
-
-Each OSD also supports "notification icons," also commonly known as "tray icons" that appear near the clock in the Windows taskbar.
+These settings control OSD (on-screen display) functions. OSDs are visual notifications that appear on the screen for a period of time to convey information, such as the current volume level.  Each OSD also supports "notification icons," also commonly known as "tray icons" that appear near the clock in the Windows taskbar.
 
 Jump to an OSD:
 
