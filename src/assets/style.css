@@ -124,13 +124,13 @@ article a:hover {
 
 figure {
     display: table;
-    width: 1px;
     max-width: 90%;
     margin: 1em auto 1em auto;
-    padding: 3px;
-    background: #e5e5e5;
+    padding: 4px 4px 0 4px;
+    background: #f3f3f3;
     border: 1px solid #9b9b9b;
-    font-size: 0.75em;
+    border-bottom: 0;
+    font-size: 0.8em;
 }
 
 figure img {
@@ -138,8 +138,13 @@ figure img {
 }
 
 figcaption {
-    display: table-row;
+    display: table-caption;
     caption-side: bottom;
+    background-color: #f3f3f3;
+    border: 1px solid #9b9b9b;
+    border-top: 0;
+    padding: 4px;
+    text-align: justify;
 }
 
 code, pre {
