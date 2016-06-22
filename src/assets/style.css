@@ -123,6 +123,7 @@ article a:hover {
 }
 
 figure {
+    display: table;
     max-width: 90%;
     margin: 1em auto 1em auto;
     padding: 3px;
@@ -130,11 +131,6 @@ figure {
     border: 1px solid #9b9b9b;
 
     font-size: 0.75em;
-}
-
-figure img {
-    max-width: 100%;
-
 }
 
 code, pre {
