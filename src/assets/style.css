@@ -133,10 +133,6 @@ figure {
     font-size: 0.8em;
 }
 
-figure img {
-    max-width: 90%;
-}
-
 figcaption {
     display: table-caption;
     caption-side: bottom;
