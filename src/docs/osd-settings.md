@@ -28,7 +28,7 @@ Audio Taper Selector
 
 <figure>
 <img src="volume-curves.png" alt="Volume Curves" width="350px">
-<figcaption>Volume taper levels from a sample hardware configuration. The default taper increases the volume level quickly on the low end, but slows near the high end. On the other hand, a custom taper of 8 inverts the curve to behave in the opposite fashion.</figcaption>
+<figcaption>Volume taper levels from a sample hardware configuration. The default taper increases the volume level quickly on the low end, but slows near the high end. On the other hand, a custom taper of 8 inverts the curve.</figcaption>
 </figure>
 
 Volume Limiter
