@@ -131,7 +131,7 @@ figure {
     border: 1px solid #9b9b9b;
     border-bottom: 0;
     font-size: 0.8em;
-    box-shadow: 2px 2px #6f6f6f;
+    box-shadow: 3px 3px #6f6f6f;
 }
 
 figure img {
@@ -146,7 +146,7 @@ figcaption {
     border-top: 0;
     padding: 4px;
     text-align: justify;
-    box-shadow: 2px 2px #6f6f6f;
+    box-shadow: 3px 3px #6f6f6f;
 }
 
 code, pre {
