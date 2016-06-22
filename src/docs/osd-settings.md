@@ -1,5 +1,5 @@
 ---
-title: 'Settings > OSD'
+title: 'Settings - OSD'
 ---
 
 OSD Settings
