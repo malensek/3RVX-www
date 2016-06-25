@@ -5,6 +5,7 @@ Welcome to the 3RVX homepage! 3RVX provides an on-screen display (OSD) for Windo
 
 News
 ----
+* 25 June 2016: [Updated Documentation](/docs)
 * 7 June 2016: [3RVX 2.9.2 (Beta 10) released](release-notes/2.9.2.html)
 * 18 September 2015: [3RVX 2.9.1 (Beta 9) released](release-notes/2.9.1.html)
 
