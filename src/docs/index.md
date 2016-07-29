@@ -14,6 +14,6 @@ The 3RVX settings utility can be started from the system notification icon near 
 Settings Tabs:
 
 * General
-* Display
+* [Display](display-settings.html)
 * [OSDs](osd-settings.html)
 
